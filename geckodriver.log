@@ -1,0 +1,6 @@
+1547028241522	geckodriver	INFO	Listening on 127.0.0.1:46302
+1547028242910	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.1nrMxHTDeQsU
+1547028242916	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1547028242936	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39303
+1547028247608	Marionette	INFO	Listening on port 39303
+1547028248916	Marionette	WARN	TLS certificate errors will be ignored for this session
